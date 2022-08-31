@@ -8,7 +8,6 @@
 ![image](https://img.shields.io/badge/Flask-808080?style=for-the-badge&logo=flask&logoColor=green)
 ![image](https://img.shields.io/badge/C%2B%2B-808080?style=for-the-badge&logo=c%2B%2B&logoColor=blue)
 ![image](https://img.shields.io/badge/Docker-0000FF?style=for-the-badge&logo=docker&logoColor=white)
-![image](https://img.shields.io/badge/json-808080?style=for-the-badge&logo=Json&logoColor=green)
 ![image](https://img.shields.io/badge/HTML5-FFA500?style=for-the-badge&logo=Html5&logoColor=white)
 ![image](https://img.shields.io/badge/CSS-0000FF?style=for-the-badge&logo=css3&logoColor=blue)
 ![image](https://img.shields.io/badge/MongoDB-00FF00?style=for-the-badge&logo=mongodb&logoColor=white)
