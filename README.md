@@ -1,6 +1,6 @@
 👋 Hi there ,I'm Amirhossein
 ![code](https://user-images.githubusercontent.com/84338957/187644063-b9b899a6-8ce8-4553-a9ae-d35a7d5ca7b1.gif)
-![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=Python&logoColor=black)
+![image](https://img.shields.io/badge/Python-808080?style=for-the-badge&logo=Python&logoColor=black)
 ![image](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=Json&logoColor=black)
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=Html5&logoColor=black)
 ![image](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=black)
