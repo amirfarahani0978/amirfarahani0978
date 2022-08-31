@@ -12,7 +12,7 @@
 ![image](https://img.shields.io/badge/HTML5-FFA500?style=for-the-badge&logo=Html5&logoColor=white)
 ![image](https://img.shields.io/badge/CSS-0000FF?style=for-the-badge&logo=css3&logoColor=blue)
 ![image](https://img.shields.io/badge/MongoDB-00FF00?style=for-the-badge&logo=mongodb&logoColor=white)
-![image](https://img.shields.io/badge/PostgreSQL-0000FF?style=for-the-badge&logo=pstgresql&logoColor=white)
+![image](https://img.shields.io/badge/PostgreSQL-0000FF?style=for-the-badge&logo=postgresql&logoColor=white)
 ![image](https://img.shields.io/badge/C%2B%2B-808080?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 <!--
 **amirfarahani0978/amirfarahani0978** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
