@@ -1,5 +1,6 @@
 👋 Hi there ,I'm Amirhossein
 ![code](https://user-images.githubusercontent.com/84338957/187644063-b9b899a6-8ce8-4553-a9ae-d35a7d5ca7b1.gif)
+---
 ![image](https://img.shields.io/badge/Django-808080?style=for-the-badge&logo=Django&logoColor=blue)
 ![image](https://img.shields.io/badge/Flask-808080?style=for-the-badge&logo=flask&logoColor=green)
 ![image](https://img.shields.io/badge/Docker-808080?style=for-the-badge&logo=docker&logoColor=green)
