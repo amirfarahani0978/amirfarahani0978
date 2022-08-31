@@ -3,7 +3,7 @@
 
 🛠️Tech Stack
 ---
-![image](https://img.shields.io/badge/Python-FFFF00?style=for-the-badge&logo=Python&logoColor=blue)
+![image](https://img.shields.io/badge/Python-d1b30a?style=for-the-badge&logo=Python&logoColor=blue)
 ![image](https://img.shields.io/badge/Django-808080?style=for-the-badge&logo=Django&logoColor=blue)
 ![image](https://img.shields.io/badge/Flask-808080?style=for-the-badge&logo=flask&logoColor=green)
 ![image](https://img.shields.io/badge/C%2B%2B-808080?style=for-the-badge&logo=c%2B%2B&logoColor=blue)
