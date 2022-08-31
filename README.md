@@ -8,7 +8,7 @@
 ![image](https://img.shields.io/badge/Flask-808080?style=for-the-badge&logo=flask&logoColor=green)
 ![image](https://img.shields.io/badge/C%2B%2B-808080?style=for-the-badge&logo=c%2B%2B&logoColor=blue)
 ![image](https://img.shields.io/badge/Docker-69aed1?style=for-the-badge&logo=docker&logoColor=white)
-![image](https://img.shields.io/badge/HTML5-FFA500?style=for-the-badge&logo=Html5&logoColor=white)
+![image](https://img.shields.io/badge/HTML5-ff6a00?style=for-the-badge&logo=Html5&logoColor=white)
 ![image](https://img.shields.io/badge/CSS-69aed1?style=for-the-badge&logo=css3&logoColor=white)
 ![image](https://img.shields.io/badge/MongoDB-454B1B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![image](https://img.shields.io/badge/PostgreSQL-69aed1?style=for-the-badge&logo=postgresql&logoColor=white)
