@@ -2,7 +2,7 @@
 
 <!--
 **amirfarahani0978/amirfarahani0978** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+https://img.shields.io/badge/dynamic/json?url=<URL>&label=<LABEL>&query=<$.DATA.SUBDATA>&color=<COLOR>&prefix=<PREFIX>&suffix=<SUFFIX>
 Here are some ideas to get you started:
 🔭 I’m currently working on ...
 🌱 I’m currently learning ....
