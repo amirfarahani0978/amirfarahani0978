@@ -3,7 +3,7 @@
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=Python&logoColor=black)
 ![image](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=Json&logoColor=black)
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=Html5&logoColor=black)
-![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=Css&logoColor=black)
+![image](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=Css&logoColor=black)
 ![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=black)
 
 <!--
