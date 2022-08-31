@@ -1,4 +1,6 @@
 ### 👋 Hi there ,I'm Amirhossein
+![](https://github.com/amirfarahani0978/code.gif)
+
 <!--
 **amirfarahani0978/amirfarahani0978** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
