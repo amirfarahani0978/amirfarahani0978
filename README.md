@@ -2,7 +2,7 @@ Hi there <img
   src="https://user-images.githubusercontent.com/84338957/188022606-3af74726-0c75-402e-9cbd-41d44e4f2873.gif"
   alt="Alt text"
   title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">I'm Amirhossein
+  style="display: inline-block; margin: 0 auto; max-width: 30px">I'm Amirhossein
 ![code](https://user-images.githubusercontent.com/84338957/187644063-b9b899a6-8ce8-4553-a9ae-d35a7d5ca7b1.gif)
 <>
 
