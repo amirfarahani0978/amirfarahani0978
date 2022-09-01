@@ -1,5 +1,6 @@
- Hi there![wave](https://user-images.githubusercontent.com/84338957/188022606-3af74726-0c75-402e-9cbd-41d44e4f2873.gif),I'm Amirhossein
+ Hi there![wave](https://user-images.githubusercontent.com/84338957/188022606-3af74726-0c75-402e-9cbd-41d44e4f2873.gif , width="200" height="400" ),I'm Amirhossein
 ![code](https://user-images.githubusercontent.com/84338957/187644063-b9b899a6-8ce8-4553-a9ae-d35a7d5ca7b1.gif)
+<>
 
 🛠️Tech Stack
 ---
