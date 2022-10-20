@@ -1,5 +1,5 @@
-Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm Amirhossein
-<img src="https://user-images.githubusercontent.com/84338957/187644063-b9b899a6-8ce8-4553-a9ae-d35a7d5ca7b1.gif" alt="Databay showcase gif" title="Databay showcase gif" width=auto/>
+Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm Amirhossein<br>
+<img src="https://user-images.githubusercontent.com/84338957/187644063-b9b899a6-8ce8-4553-a9ae-d35a7d5ca7b1.gif" alt="Databay showcase gif" title="Databay showcase gif" width=auto height=350px/>
 
 
 🛠️Tech Stack
