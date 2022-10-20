@@ -3,15 +3,7 @@ Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" w
 
 🛠️Tech Stack
 ---
-![image](https://img.shields.io/badge/Python-fce03d?style=for-the-badge&logo=Python&logoColor=blue)
-![image](https://img.shields.io/badge/Django-143601?style=for-the-badge&logo=Django&logoColor=blue)
-![image](https://img.shields.io/badge/Flask-050505?style=for-the-badge&logo=flask&logoColor=green)
-![image](https://img.shields.io/badge/C%2B%2B-105201?style=for-the-badge&logo=c%2B%2B&logoColor=blue)
-![image](https://img.shields.io/badge/Docker-7003ff?style=for-the-badge&logo=docker&logoColor=white)
-![image](https://img.shields.io/badge/HTML5-ff6a00?style=for-the-badge&logo=Html5&logoColor=white)
-![image](https://img.shields.io/badge/CSS-1e7cd9?style=for-the-badge&logo=css3&logoColor=white)
-![image](https://img.shields.io/badge/MongoDB-454B1B?style=for-the-badge&logo=mongodb&logoColor=white)
-![image](https://img.shields.io/badge/PostgreSQL-033566?style=for-the-badge&logo=postgresql&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=python,django,flask,docker,html,css,js,mongodb,postgresql)](https://skillicons.dev)
 <!--
 **amirfarahani0978/amirfarahani0978** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -23,5 +15,14 @@ Here are some ideas to get you started:
 📫 How to reach me: ...
 😄 Pronouns: ...
 ⚡ Fun fact: ...
+![image](https://img.shields.io/badge/Python-fce03d?style=for-the-badge&logo=Python&logoColor=blue)
+![image](https://img.shields.io/badge/Django-143601?style=for-the-badge&logo=Django&logoColor=blue)
+![image](https://img.shields.io/badge/Flask-050505?style=for-the-badge&logo=flask&logoColor=green)
+![image](https://img.shields.io/badge/C%2B%2B-105201?style=for-the-badge&logo=c%2B%2B&logoColor=blue)
+![image](https://img.shields.io/badge/Docker-7003ff?style=for-the-badge&logo=docker&logoColor=white)
+![image](https://img.shields.io/badge/HTML5-ff6a00?style=for-the-badge&logo=Html5&logoColor=white)
+![image](https://img.shields.io/badge/CSS-1e7cd9?style=for-the-badge&logo=css3&logoColor=white)
+![image](https://img.shields.io/badge/MongoDB-454B1B?style=for-the-badge&logo=mongodb&logoColor=white)
+![image](https://img.shields.io/badge/PostgreSQL-033566?style=for-the-badge&logo=postgresql&logoColor=white)
 -->
 
