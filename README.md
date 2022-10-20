@@ -1,20 +1,26 @@
 Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm Amirhossein
 ![code](https://user-images.githubusercontent.com/84338957/187644063-b9b899a6-8ce8-4553-a9ae-d35a7d5ca7b1.gif)
 
+
 🛠️Tech Stack
 ---
 [![My Skills](https://skillicons.dev/icons?i=python,django,flask,docker,html,css,js,mongodb,postgresql)](https://skillicons.dev)
+
+
 <!--
 **amirfarahani0978/amirfarahani0978** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 🔭 I’m currently working on ...
-🌱 I’m currently learning ....
 👯 I’m looking to collaborate on ...
 🤔 I’m looking for help with ...
 💬 Ask me about ...
-📫 How to reach me: ...
+📫 How to reach me: https://www.linkedin.com/in/amirhossein-hassani-912337238/
 😄 Pronouns: ...
 ⚡ Fun fact: ...
+📫 How to reach me: https://www.linkedin.com/in/amirhossein-hassani-912337238/
+<p align="center">
+  🌱 I’m currently learning Django
+</p>
 ![image](https://img.shields.io/badge/Python-fce03d?style=for-the-badge&logo=Python&logoColor=blue)
 ![image](https://img.shields.io/badge/Django-143601?style=for-the-badge&logo=Django&logoColor=blue)
 ![image](https://img.shields.io/badge/Flask-050505?style=for-the-badge&logo=flask&logoColor=green)
