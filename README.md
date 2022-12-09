@@ -30,5 +30,7 @@ Here are some ideas to get you started:
 ![image](https://img.shields.io/badge/CSS-1e7cd9?style=for-the-badge&logo=css3&logoColor=white)
 ![image](https://img.shields.io/badge/MongoDB-454B1B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![image](https://img.shields.io/badge/PostgreSQL-033566?style=for-the-badge&logo=postgresql&logoColor=white)
+![image](https://img.shields.io/badge/Redis-033566?style=for-the-badge&logo=postgresql&logoColor=white)
+
 -->
 
