@@ -1,8 +1,15 @@
-Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm Amirhossein<br>
+<h1 align="center">Hi , I'm Amirhossein <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<img src="https://user-images.githubusercontent.com/84338957/187644063-b9b899a6-8ce8-4553-a9ae-d35a7d5ca7b1.gif" alt="Databay showcase gif" title="Databay showcase gif" width=auto height=350px/>
+- 🌱 I’m currently learning **Fast Api** <img align="right" style="width:20rem; height:auto" src="https://user-images.githubusercontent.com/84338957/187644063-b9b899a6-8ce8-4553-a9ae-d35a7d5ca7b1.gif"/>
 
+- 👯 I’m looking to collaborate on **Web Development Related Projects**
 
+- 🤝 I’m looking for help with **Backend Design**
+
+- 👨‍💻 All of my projects are available
+
+- 💬 Ask me about **Djanog & Flask & python**
+<br>
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
 <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=django&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/django.svg'> </a>
